@@ -1,2 +1,3 @@
-# Discord-bot-golang
-A discord bot written in Golang
+# GoLang-Discord-bot
+
+- A simple Discrod bot for Golang
