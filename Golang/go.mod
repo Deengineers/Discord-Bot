@@ -1,4 +1,4 @@
-module github.com/moabukar/golang-discord
+module github.com/Deengineers/Discord-bot-golang/Golang
 
 go 1.17
 
